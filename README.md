@@ -4,4 +4,5 @@ Qin, Duo and van Huellen, Sophie and Wang, Qingchao and Moraitis, Thanos. 2018. 
 Please see the paper for the more information on the project and the data used. 
 
 The grouping algorithm has been written by Dr Shan Lu (CUFE, Beijing, China). 
+
 The IFCI algorithm (header and implementation) has been written by Dr Ho Tak Yui (LSE, London, UK) in collaboration with Qingchao Wang (SOAS, London, UK).
